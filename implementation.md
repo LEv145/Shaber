@@ -37,7 +37,7 @@ error|{error code: error message}
 <ul class="pedia | wiki | radio">
     <li><h3>GET > /pedia | wiki | radio:</h3>
         <ul>
-            <liDescription > Coming soon...</li>
+            <li>Description > Coming soon...</li>
         </ul>
     </li>
 </ul>
