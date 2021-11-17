@@ -2,13 +2,11 @@ Documentation on using the wrapper or creating a client for it
 
 ## Domain: [shaber.xyz](https://shaber.xyz/)
 
-<ul class="home">
-    <li><h3>GET > /:</h3>
-        <ul>
-             <li>Description > Wrapper home page</li>
-        </ul>
-    </li>
-</ul>
+<li><h3>GET > /:</h3>
+    <ul>
+        <li>Description > Wrapper home page</li>
+    </ul>
+</li>
 
 <ul class="nestedList base">
     <li><h3>GET > /base:</h3>
