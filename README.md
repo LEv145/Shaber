@@ -1,3 +1,2 @@
 # Shaber
-[![Python](https://img.shields.io/badge/Python-3.8%5E-blue.svg)]
-Spore API wrapper written in Python
+![Python](https://img.shields.io/badge/Python-3.8%5E-blue.svg)
