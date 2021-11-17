@@ -2,13 +2,11 @@
 
 ## Domain: [shaber.xyz](https://shaber.xyz/)
 
-<ul class="nestedList home">
-    <li><h3>>GET > /:</h3>
-        <ul>
-             Description > Wrapper home page
-        </ul>
-    </li>    
-</ul>
+<li><h3>GET > /:</h3>
+    <ul>
+    	Description > Wrapper home page
+    </ul>
+</li>
 
 GET > /base:
 	Description > Use any currently available redirect from the original api: spore.com/comm/samples
