@@ -16,6 +16,8 @@ Documentation on using the wrapper or creating a client for it
              <li>Description > Use any currently available redirect from the <a href="http://spore.com/comm/samples">original api</a></li>
         </ul>
         
-        <ul><TEst/ul>
+        <ul>
+            <li>Test</li>
+        </ul>
     </li>
 </ul>
