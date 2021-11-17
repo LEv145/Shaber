@@ -1,4 +1,4 @@
-# Documentation on using the wrapper or creating a client for it
+Documentation on using the wrapper or creating a client for it
 
 ## Domain: [shaber.xyz](https://shaber.xyz/)
 
