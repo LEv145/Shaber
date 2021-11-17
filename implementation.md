@@ -14,10 +14,9 @@ Documentation on using the wrapper or creating a client for it
     <li><h3>GET > /base:</h3>
         <ul>
             <li>Description > Use any currently available redirect from the <a href="http://spore.com/comm/samples">original api</a></li>
-            <li>
+            <li><span>
                 Return > Json:
-                    Test
-            </li>
+            </li></span>
         </ul>
     </li>
 </ul>
