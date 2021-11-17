@@ -17,8 +17,8 @@ Documentation on using the wrapper or creating a client for it
 
 	     <li>
 		 Return > Json:
-		 	successfully(200): {data: data}
-		 	error(error code): {error code: error message}
+		 successfully(200): {data: data}
+		 error(error code): {error code: error message}
 	     </li>
         </ul>
     </li>
