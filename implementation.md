@@ -1,3 +1,4 @@
+
 Documentation on using the wrapper or creating a client for it
 
 ## Domain: [shaber.xyz](https://shaber.xyz/)
@@ -28,7 +29,15 @@ error|{error code: error message}
     <li><h3>GET > /version:</h3>
         <ul>
             <li>Description > Current version of the wrapper</li>
-            <li>Return: String</li>
+            <li>Return > String</li>
+        </ul>
+    </li>
+</ul>
+
+<ul class="pedia | wiki | radio">
+    <li><h3>GET > /pedia | wiki | radio:</h3>
+        <ul>
+            <liDescription > Coming soon...</li>
         </ul>
     </li>
 </ul>
