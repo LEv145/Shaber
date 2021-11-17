@@ -2,16 +2,20 @@ Documentation on using the wrapper or creating a client for it
 
 ## Domain: [shaber.xyz](https://shaber.xyz/)
 
-<li><h3>GET > /:</h3>
-    <ul>
-        <li>Description > Wrapper home page</li>
-    </ul>
-</li>
+<ul class="home">
+    <li><h3>GET > /:</h3>
+        <ul>
+             <li>Wrapper home page</li>
+        </ul>
+    </li>
+</ul>
 
-<ul class="nestedList base">
+<ul class="base">
     <li><h3>GET > /base:</h3>
         <ul>
              <li>Description > Use any currently available redirect from the <a href="http://spore.com/comm/samples">original api</a></li>
         </ul>
+        
+        <ul><TEst/ul>
     </li>
 </ul>
