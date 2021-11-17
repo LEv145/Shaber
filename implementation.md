@@ -15,9 +15,10 @@ Documentation on using the wrapper or creating a client for it
         <ul>
             <li>Description > Use any currently available redirect from the <a href="http://spore.com/comm/samples">original api</a></li>
             <li>Return > Json:</li>
-            Name|Type |Description
-            --------|----|-------
-            authInfoEnabled|Boolean | Flag to get authorization settings.<br>By default, `true`
         </ul>
     </li>
 </ul>
+
+Name|Type |Description
+--------|----|-------
+authInfoEnabled|Boolean | Flag to get authorization settings.<br>By default, `true`
