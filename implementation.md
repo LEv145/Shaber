@@ -21,5 +21,14 @@ Documentation on using the wrapper or creating a client for it
 
 Status|Json
 --------|----
-Successfully|{data: data}
+successfully|{data: data}
 error|{error code: error message}
+
+<ul class="version">
+    <li><h3>GET > /version:</h3>
+        <ul>
+            <li>Description > Current version of the wrapper</li>
+            <li>Return: String</li>
+        </ul>
+    </li>
+</ul>
