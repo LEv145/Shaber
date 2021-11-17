@@ -19,6 +19,6 @@ Documentation on using the wrapper or creating a client for it
     </li>
 </ul>
 
-Name|Type |Description
---------|----|-------
-authInfoEnabled|Boolean | Flag to get authorization settings.<br>By default, `true`
+Successfully|{data: data}
+--------|----
+error|{error code: error message}
