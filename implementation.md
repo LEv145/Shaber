@@ -16,9 +16,7 @@ Documentation on using the wrapper or creating a client for it
              <li>Description > Use any currently available redirect from the [original api](spore.com/comm/samples)</li>
 
 	     <li>
-		 Return > Json:
-		 successfully(200): {data: data}
-		 error(error code): {error code: error message}
+		 Return > Json: test
 	     </li>
         </ul>
     </li>
