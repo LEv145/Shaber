@@ -2,13 +2,9 @@
 
 ## Domain: [shaber.xyz](https://shaber.xyz/)
 
-<ul class="nestedList home">
-    <li><h3>GET > /:</h3>
-        <ul>
-             <li>Description > Wrapper home page</li>
-        </ul>
-    </li>
-</ul>
+<li><h3>GET > /:</h3>
+    Description > Wrapper home page
+</li>
 
 
 GET > /base:
