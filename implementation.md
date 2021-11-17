@@ -19,6 +19,7 @@ Documentation on using the wrapper or creating a client for it
     </li>
 </ul>
 
-Successfully|{data: data}
+Status|Json
 --------|----
+Successfully|{data: data}
 error|{error code: error message}
