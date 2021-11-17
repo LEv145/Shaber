@@ -10,17 +10,14 @@ Documentation on using the wrapper or creating a client for it
     </li>
 </ul>
 
-GET > /base:
-	Description > Use any currently available redirect from the original api: spore.com/comm/samples
+<ul class="nestedList base">
+    <li><h3>GET > /base:</h3>
+        <ul>
+             Description > Use any currently available redirect from the original api: spore.com/comm/samples
 
-	Return > `Json`:
-		successfully(200): {data: data}
-		error(error code): {error code: error message}
-
-GET > /version:
-	Description > Current version of the wrapper
-
-	Return: String
-
-GET > /pedia | wiki | radio:
-	Description > Coming soon...		
+	     Return > `Json`:
+		 successfully(200): `{data: data}`
+		 error(error code): `{error code: error message}`
+        </ul>
+    </li>
+</ul>
