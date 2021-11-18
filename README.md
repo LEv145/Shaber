@@ -15,7 +15,7 @@ It's okay that you ask this question (to be honest, I would ask myself). There a
 
 # Deploying on host
 Although the wrapper is public and available by url, you can also place it on your server
-## Install dependencies
+- ### Install dependencies
 ```pip install -r requirements.txt```
 
 # Client libraries
