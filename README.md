@@ -17,6 +17,20 @@ It's okay that you ask this question (to be honest, I would ask myself). There a
 Although the wrapper is public and available by url, you can also place it on your server
 - ### Install dependencies
 ```pip install -r requirements.txt```
+- ### Rename `config.yml.example` to `config.yml` and setting up it (although you can just delete it)
+```yml
+log:
+  enable: false
+
+  format:
+    "\n[%(asctime)s.%(msecs)03d] | %(message)s\n"
+
+  dateFormat:
+    "%Y/%m/%d %H:%M:%S"
+
+  path:
+    "logs/"
+```
 
 # Client libraries
 There are currently no clients available. But you can become one of the first by following this [documentation](https://github.com/Sherolld/Shaber/blob/main/implementation.md). Don't miss this opportunity <3 Just contact me (if of course you have a desire to do this): Sherolld#6561
