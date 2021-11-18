@@ -14,4 +14,4 @@ A wrapper for the [Spore API](http://www.spore.com/comm/samples) that simplifies
 It's okay that you ask this question (to be honest, I would ask myself). There are not many differences at the moment, but in the future there will be many innovations listed above.
 
 # Client libraries:
-There are currently no clients available. But you can become one of the first by following this documentation. Don't miss this opportunity <3
+There are currently no clients available. But you can become one of the first by following this [documentation](https://github.com/Sherolld/Shaber/blob/main/implementation.md). Don't miss this opportunity <3
