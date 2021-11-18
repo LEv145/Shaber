@@ -33,8 +33,10 @@ log:
 ```
 - ### Run the server
 ```python main.py```
+
 By default the server will start: 0.0.0.0:8080
-Optional parameters
+
+#### Optional parameters
 ```
 --ip IP (0.0.0.0/localhost)
 --port PORT (62340)
