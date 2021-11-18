@@ -1,0 +1,12 @@
+
+log:
+  enable: false
+
+  format:
+    "\n[%(asctime)s.%(msecs)03d] | %(message)s\n"
+
+  dateFormat:
+    "%Y/%m/%d %H:%M:%S"
+
+  path:
+    "logs/"
