@@ -37,8 +37,8 @@ log:
 By default the server will start: 0.0.0.0:8080
 
 #### Optional parameters
-* --ip IP (0.0.0.0/localhost)
-* --port PORT (62340)
+* `--ip IP`
+* `--port PORT`
 
 # Client libraries
 There are currently no clients available. But you can become one of the first by following this [documentation](https://github.com/Sherolld/Shaber/blob/main/implementation.md). Don't miss this opportunity <3 Just contact me (if of course you have a desire to do this): Sherolld#6561
